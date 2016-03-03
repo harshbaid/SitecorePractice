@@ -1,6 +1,6 @@
 # SitecorePractice
 Playground Sitecore Project.
 
-This project contains details on
+This project contains:
 * Sitecore Custom Data Provider
-* Sitecore HeartBeat (configuration for connection strings issue)
+* Sitecore HeartBeat configuration (for connection strings issue)
